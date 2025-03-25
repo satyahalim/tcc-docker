@@ -1,8 +1,8 @@
 import { Sequelize } from "sequelize";
 
 //nama db, nama user, password
-const db = new Sequelize("tcc","root","meong123",{
-    host: "34.60.58.134",
+const db = new Sequelize("RECOVER_YOUR_DATA","root","",{
+    host: "104.197.117.136",
     dialect: "mysql"
 })
 
